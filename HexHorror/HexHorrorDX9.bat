@@ -1,0 +1,1 @@
+start HexHorror.exe -force-d3d9
